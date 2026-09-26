@@ -1,0 +1,10 @@
+This folder contains ab initio data of He+ + N2 system
+
+1. Adiabatic pecs at fixed N2 (r_e ) = 2.0811d0 
+R grids: 1.8-2.0 (0.2), 2.0 - 8.0 (0.1), 8.0 - 12.0 (0.2), 12 - 32 (5.0) in hartee (atomic unit)
+
+Gamma grids: 0 - 90 (15) in degree
+
+Collinear approach (0 and 90) : E3 is the He+ + N2
+Off-collinear (15 - 75) : E5 is the He+ + N2
+
